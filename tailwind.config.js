@@ -3,8 +3,8 @@ module.exports = {
   content: ['*'],
   theme: {
     extend: {
-      fontFamily: {
-        poppins:['Poppins', 'sans-serif'],
+      fontfamily: {
+        poppins:['Poppins','sans-serif'],
       },
       colours: {
         'bg-color':'#091420',
