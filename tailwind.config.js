@@ -3,7 +3,9 @@ module.exports = {
   content: ['*'],
   theme: {
     extend: {
-      fontFamily: ['Poppins', 'sans-serif'],
+      fontFamily: {
+        poppins:['Poppins', 'sans-serif'],
+      },
     },
     colours: {
       'bg-color':'#091420',
